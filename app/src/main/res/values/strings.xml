@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ReciclerViewApp</string>
+
+
+    <string-array name="languages">
+        <item>c</item>
+        <item>c++</item>
+        <item>java</item>
+        <item>dotnet</item>
+        <item>python</item>
+        <item>php</item>
+        <item>c#</item>
+        <item>ruby</item>
+        <item>java sript</item>
+        <item>swift</item>
+        <item>kotlin</item>
+
+
+
+    </string-array>
+</resources>
